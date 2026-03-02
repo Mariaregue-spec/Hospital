@@ -4,6 +4,11 @@ public abstract class Character {
     private String name;
     private String surname;
 
+    public Character(String name, String surname) {
+        this.name = name;
+        this.surname = surname;
+    }
+
     public String getName() {
         return name;
     }
@@ -12,12 +17,14 @@ public abstract class Character {
         this.name = name;
     }
 
-    public void showInfo() {
-        System.out.println("Name: " + name);
-        System.out.println("Surname: " + surname);
+    public String getSurname() {
+        return surname;
     }
-    public Character(String name, String surname) {
-        this.name = name;
+
+    public void setSurname(String surname) {
         this.surname = surname;
     }
-}
+
+    public abstract void showInfo();
+    }
+
