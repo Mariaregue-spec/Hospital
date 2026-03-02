@@ -48,7 +48,7 @@ public class ConsultationPatient extends Patient implements CommonPatient, Consu
 
     @Override
     public void showInfo() {
-        System.out.println("Consultation Patient: " + getName() + " " + getSurname());
+        System.out.println("Paciente de Consulta: " + getName() + " " + getSurname());
     }
 }
 

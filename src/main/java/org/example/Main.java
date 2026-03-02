@@ -23,12 +23,6 @@ public class Main {
                 sd1, sd2, st1, st2
         };
 
-        System.out.println("===== INFORMACIÓN GENERAL =====");
-
-        for (Character member : hospitalMembers) {
-            member.showInfo();
-        }
-
 
         System.out.println("\n===== PACIENTES =====");
 
