@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        ConsultationPatient cp1 = new ConsultationPatient("Ana", "López García", "001", "10/10/2026", "Maria");
+        ConsultationPatient cp1 = new ConsultationPatient("Ana", "López Barca", "001", "10/10/2026", "Maria");
         ConsultationPatient cp2 = new ConsultationPatient("Luis", "Pérez Medina", "002", "12/10/2026", "Carlos");
 
         AmbulancePatient ap1 = new AmbulancePatient("Pedro", "Gómez Álvarez", "003", "Accidente", true);
