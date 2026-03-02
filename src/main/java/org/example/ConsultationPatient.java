@@ -1,4 +1,4 @@
 package org.example;
 
-public class ConsultationPatient {
+public class ConsultationPatient extends Patient {
 }
