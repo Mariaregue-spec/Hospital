@@ -14,6 +14,7 @@
 - Médicos: Especialistas (`SpecialistDoctor`) & Estudiantes (`StudentDoctor`)  
 
 ✅ Flujo clínico completo  
+
 ✅ Diseño limpio, escalable y profesional  
 
 ---
@@ -132,17 +133,21 @@ El código de alto nivel no debe depender del de bajo nivel.
 
 2️⃣ Salida en Consola
 
+- Flujo completo de pacientes y médicos.
+  
 
 <img width="849" height="368" alt="Captura de pantalla 2026-03-02 200156" src="https://github.com/user-attachments/assets/45b450ad-1adb-44f8-b469-07550312ab55" />
+
 
 
 <img width="574" height="369" alt="Captura de pantalla 2026-03-02 200222" src="https://github.com/user-attachments/assets/ae31912d-17f9-4394-8cc7-a5eb91924f33" />
 
 
+
 <img width="454" height="366" alt="Captura de pantalla 2026-03-02 200253" src="https://github.com/user-attachments/assets/fe35f913-f522-4790-ae57-1ab2d8c4dc76" />
 
 
-Flujo completo de pacientes y médicos.
+
 
 ---
 
